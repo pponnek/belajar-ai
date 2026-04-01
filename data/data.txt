@@ -1,0 +1,3 @@
+Python adalah bahasa pemrograman.
+FastAPI adalah framework web modern berbasis Python yang digunakan untuk membangun RESTful API dengan cepat dan efisien. FastAPI menggunakan type hints Python untuk validasi data secara otomatis dan memiliki performa tinggi karena dibangun di atas Starlette dan Pydantic.
+LLM digunakan untuk AI chatbot.
